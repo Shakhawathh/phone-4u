@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1",
+        "price": "35,000",
+        "img": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a53-5g-.jpg",
+        "name": "Samsung Galaxy a53"
+    },
+    {
+        "id": "2",
+        "price": "32,000",
+        "img": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a73-5g.jpg",
+        "name": "Samsung Galaxy A73"
+    },
+    {
+        "id": "3",
+        "price": "19,000",
+        "img": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a33-5g.jpg",
+        "name": "Samsung Galaxy A33"
+    },
+    {
+        "id": "4",
+        "price": "25,000",
+        "img": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s22-5g.jpg",
+        "name": "Samsung Galaxy S22"
+    },
+    {
+        "id": "5",
+        "price": "65,000",
+        "img": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s22-ultra-5g.jpg",
+        "name": "Samsung Galaxy S22 Ultra"
+    },
+    {
+        "id": "6",
+        "price": "70,000",
+        "img": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s21-fe-5g.jpg",
+        "name": "Samsung Galaxy S21 FE"
+    },
+    {
+        "id": "7",
+        "price": "41,000",
+        "img": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a12-sm-a125.jpg",
+        "name": "Samsung Galaxy A12"
+    },
+    {
+        "id": "8",
+        "price": "46,000",
+        "img": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m33.jpg",
+        "name": "Samsung Galaxy M33"
+    },
+    {
+        "id": "9",
+        "price": "42,000",
+        "img": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a32-4g-new.jpg",
+        "name": "Samsung Galaxy A32"
+    }
+]

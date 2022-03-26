@@ -1,0 +1,32 @@
+.phone-shop{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+.phones-info{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 45px;
+    margin: 100px 50px;
+}
+.phones-info h2{
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 25px;
+}
+.phone-container{
+    background-color: rgba(255,153,0,0.3);
+    position: sticky;
+    top: 0;
+    height:500px;
+}
+
+/* media queries for less then 576px screen */
+@media screen and (max-width:576px){
+    .phone-shop{
+        display: grid;
+    }
+    .phones-info{
+        display: grid;
+        grid-template-columns: repeat(1, 2fr);
+    }
+}
